@@ -1,5 +1,5 @@
 {
-    "name": "Roy Sheppard",
+    "name": "Roy Jack",
     "profilePictureUrl": "images/pictures/avatar.jpg",
 
     "locales": {
@@ -19,9 +19,9 @@
         },
 
         "zh": {
-            "name": "罗伊谢帕德",
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "name": "JACK",
+            "credits": "设计：<strong><a href='https://github.com'>JACK</a></strong>",
+            "role": "设计师"
         }
     },
 
@@ -32,7 +32,7 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "123 Main Street, Cupertino, CA 01234",
+                    "value": "xxxx",
                     "valueShort": "Cupertino – CA"
                 },
                 "es": {
@@ -42,22 +42,22 @@
                     "valueShort": "Californie – États-Unis"
                 },
                 "zh": {
-                    "valueShort": "美国加州"
+                    "valueShort": "中国北京"
                 }
             }
         },
 
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "czfzxzyq@163.com.com",
+            "valueShort": "czfzxzyq@163.com.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
+            "href": "mailto:czfzxzyq@163.com.com"
         },
 
         {
             "id": "facebook",
-            "value": "Roy Sheppard",
+            "value": "Roy Jack",
             "valueShort": "Roy S.",
             "faIcon": "fa-brands fa-facebook",
             "href": "https://facebook.com"
@@ -65,34 +65,41 @@
 
         {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@roy.Jack.official",
+            "valueShort": "@roy.Jack.official",
             "faIcon": "fa-brands fa-github",
             "href": "https://github.com"
         },
 
         {
             "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@roy.Jack.official",
+            "valueShort": "@roy.Jack.official",
             "faIcon": "fa-brands fa-instagram",
             "href": "https://instagram.com"
         },
 
         {
             "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@roy.Jack.official",
+            "valueShort": "@roy.Jack.official",
             "faIcon": "fa-brands fa-linkedin",
             "href": "https://linkedin.com"
         },
 
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+86 (185) 180-20144",
+            "valueShort": "(185) 180-20144",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890"
+            "href": "tel:18518020144"
+        },
+        {
+            "id": "download",
+            "value": "简历下载",
+            "valueShort": "简历下载",
+            "faIcon": null,
+            "href": "static/1.pdf"
         }
     ]
 }

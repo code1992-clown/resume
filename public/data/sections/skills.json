@@ -208,7 +208,7 @@
                 "en": {"title": "Frontend Stack"},
                 "es": {"title": "Stack de Frontend"},
                 "fr": {"title": "Stack Frontend"},
-                "zh": {"title": "前端技术栈"}
+                "zh": {"title": "技术栈01"}
             },
             "settings": {
                 "order_items_by": "percentage",
@@ -390,7 +390,7 @@
                 "en": {"title": "Backend Stack"},
                 "es": {"title": "Stack de Backend"},
                 "fr": {"title": "Stack Backend"},
-                "zh": {"title": "后端技术栈"}
+                "zh": {"title": "技术栈02"}
             },
             "settings": {
                 "order_items_by": "id",

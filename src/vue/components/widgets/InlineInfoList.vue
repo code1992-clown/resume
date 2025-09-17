@@ -28,11 +28,11 @@ ul.inline-info-list {
             margin-right: 10px;
         }
 
-        &:not(:last-child)::after {
+        /* &:not(:last-child)::after {
             content: "𐄁";
             opacity: 0.4;
             margin-left: 9px;
-        }
+        } */
     }
 
     i {
